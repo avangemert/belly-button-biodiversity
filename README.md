@@ -1,5 +1,3 @@
-# belly-button_Heroku
+# Belly Button Biodiversity
 
-<h1>Belly Button Biodiversity</h1>
-
-I used Plotly to create charts exploring a database saved as a sqlite file. Website uses Flask and is deployed on Heroku. https://avangemert-biodiversity.herokuapp.com  
+I used Plotly to create charts exploring a database saved as a sqlite file. Website served using Flask and is deployed on Heroku. https://avangemert-biodiversity.herokuapp.com  
